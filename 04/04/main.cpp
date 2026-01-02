@@ -24,7 +24,7 @@ int main() {
 	}
 
 	cout << "Resultado de las pestañas: " << endl;
-	for (const string p : Pestanas) {
+	for (const string& p : Pestanas) {
 		cout << "- " << p << endl;
 	}
 
