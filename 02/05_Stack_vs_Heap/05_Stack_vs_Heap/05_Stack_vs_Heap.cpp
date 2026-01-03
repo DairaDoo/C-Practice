@@ -29,20 +29,21 @@ Emp Emp_detail(int id, std::string emp_name) {
 int main() {
 
 	// datos que se guardan en el Stack.
-	int a;
-	int b[10];
-	int n = 20;
+	//int a;
+	//int b[10];
+	//int n = 20;
 
-	// datos que se guardan en el Heap
-	// memoria para 10 enteros
-	int* ptr = new int[10];
+	//// datos que se guardan en el Heap
+	//// memoria para 10 enteros
+	//int* ptr = new int[10];
 
 
-	int id = 21;
-	std::string name = "Juan";
+	//int id = 21;
+	//std::string name = "Juan";
 
-	Emp person_ = Emp_detail(id, name);
-	person_.SaludaEmpleado();
+	//Emp person_ = Emp_detail(id, name);
+	//person_.SaludaEmpleado();
+
 
 	return 0;
 }
