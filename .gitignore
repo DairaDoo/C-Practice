@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.slnx
+
+# C++ build outputs
+x64/
+x86/
+Debug/
+Release/

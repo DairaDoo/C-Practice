@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 int count = 10; // global variable
 
 int main()
